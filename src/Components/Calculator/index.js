@@ -139,7 +139,7 @@ export const Calculator = () => {
         return;
       }
     }
-
+    //result update
     setStrToDisplay(strToDisplay + val);
   };
   return (
